@@ -1,7 +1,6 @@
 ### Hi, 
 Here is short blurbed notes on me.
 
-Here are some ideas to get you started:
 
 - I’m currently working as a Machine Learning Engineer.
 - I’m primarily focused on Proabilistic Machine Learning Models, Statistical Learning, and Numerical Optimization.
