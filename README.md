@@ -1,5 +1,5 @@
 ### Hi, 
-Here are short blurbed notes on me.
+Here are short notes on me.
 
 
 - I'm currently working as a Machine Learning Engineer.
